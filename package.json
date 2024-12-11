@@ -23,7 +23,7 @@
     "@uppy/dashboard": "^1.21.1",
     "@uppy/drag-drop": "^1.4.31",
     "@uppy/locales": "^1.22.0",
-    "@uppy/status-bar": "^1.9.6",
+    "@uppy/status-bar": "^2.0.0",
     "@uppy/url": "^1.5.23",
     "@uppy/webcam": "^1.8.13",
     "@uppy/xhr-upload": "^1.7.5",
