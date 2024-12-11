@@ -46,7 +46,7 @@
     "pinia": "^2.0.30",
     "raw-body": "^2.5.1",
     "request": "^2.88.2",
-    "sharp": "^0.30.4",
+    "sharp": "^0.33.2",
     "vue-bootstrap-typeahead": "^0.2.6",
     "vue-cropperjs": "^4.2.0",
     "vue-gates": "^2.1.0",
