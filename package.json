@@ -41,7 +41,7 @@
     "http-proxy": "^1.18.1",
     "image-size": "^1.0.1",
     "interactjs": "^1.10.11",
-    "nuxt": "^2.16.0",
+    "nuxt": "^3.0.0",
     "nuxt-svg-loader": "^1.2.0",
     "pinia": "^2.0.30",
     "raw-body": "^2.5.1",
